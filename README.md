@@ -16,13 +16,13 @@ Start the ddev server
 Install the dependencies
 
 ```bash
-    ddev composer install
+  ddev composer install
 ```
 
 Export the database 
 
 ```bash
-    ddev export-db --file=/tmp/db.sql.gz
+  ddev export-db --file=/tmp/db.sql.gz
 ```
 
 Import the database
